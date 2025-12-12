@@ -1,4 +1,4 @@
-# BMIN5030 Final Project - Fall 2025 - Hepatitis B Vaccination Rates in the NICU and the Impact of a CDS Tool
+# BMIN5030 Final Project - Fall 2025
 
 ***Text added:
 This repo includes the .qmd and .html file for my final BMIN 5030 project that looked at the impact of a CDS rounding checklist tool on hepatitis b vaccination rates in the NICU. This will use de-identified EHR data. All analyses are done in aggregate. 
